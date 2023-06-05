@@ -1,0 +1,831 @@
+WEBVTT
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-0
+00:00:03.235 --> 00:00:06.719
+Owner before we get to a point
+of actually pulling the plug,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-1
+00:00:06.719 --> 00:00:10.373
+who's gonna pull a plug? What's
+gonna happen? The communication
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-2
+00:00:10.373 --> 00:00:13.856
+paths that needs to take place,
+so forth and so on. So I'll.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-3
+00:00:13.856 --> 00:00:17.511
+I'll shut up and apologize for a
+long intro just to give others
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-4
+00:00:17.511 --> 00:00:20.423
+an opportunity to be able to
+start working on this
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/52-5
+00:00:20.423 --> 00:00:21.165
+collectively.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/67-0
+00:00:23.935 --> 00:00:28.615
+Any any comments or feedback any
+any thing anyone wants to add?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/105-0
+00:00:28.085 --> 00:00:32.765
+So I I have one question. Do you
+have a slide that is summarizing
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/75-0
+00:00:30.335 --> 00:00:30.645
+Sure.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/105-1
+00:00:32.765 --> 00:00:36.948
+the scope of the project?
+Because I now understand that we
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/105-2
+00:00:36.948 --> 00:00:41.485
+are only talking about external
+IP's, I mean servers in the DMZ
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/105-3
+00:00:41.485 --> 00:00:44.675
+or that type of things or even
+in the cloud.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/108-0
+00:00:45.365 --> 00:00:45.895
+I guess.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/121-0
+00:00:46.685 --> 00:00:51.915
+So I I would probably defer. Ohh
+I'm I didn't realize that.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/126-0
+00:00:54.095 --> 00:00:54.925
+Obtuse tape.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/132-0
+00:00:55.905 --> 00:00:57.935
+Ganol external and after cloud.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/141-0
+00:00:58.705 --> 00:01:01.495
+I thought I thought everyone had
+join one. Let me see.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/144-0
+00:01:03.975 --> 00:01:05.215
+Because actually.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/178-0
+00:01:08.135 --> 00:01:12.568
+I did so I don't have
+necessarily a slide, but we do
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/178-1
+00:01:12.568 --> 00:01:17.503
+have one put together. My
+understanding is that there been
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/178-2
+00:01:17.503 --> 00:01:21.935
+some others that actually have
+been working on this.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/185-0
+00:01:23.615 --> 00:01:26.995
+And I didn't see a PowerPoint.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/189-0
+00:01:30.285 --> 00:01:32.055
+Ohh did I.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/191-0
+00:01:33.665 --> 00:01:34.315
+Cool.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/197-0
+00:01:35.235 --> 00:01:37.595
+What's that? The PowerPoint
+created by open?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/214-0
+00:01:38.985 --> 00:01:44.202
+Yeah. And I didn't cool. Open on
+the call. Oh my God. How did I
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/214-1
+00:01:44.202 --> 00:01:44.935
+miss him?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/224-0
+00:01:45.205 --> 00:01:47.768
+That that, that's kinda was
+raising the question at the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/224-1
+00:01:47.768 --> 00:01:49.095
+start of the meeting because.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/239-0
+00:01:50.055 --> 00:01:55.585
+I was not. I I understand what
+it was about, but not the scope.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/244-0
+00:01:57.365 --> 00:01:57.995
+Yo.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/262-0
+00:01:57.675 --> 00:02:01.447
+Yeah, because it I think it was
+in the original project
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/262-1
+00:02:01.447 --> 00:02:04.545
+description where open started
+with Michelle.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/264-0
+00:02:05.065 --> 00:02:05.485
+OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/276-0
+00:02:07.675 --> 00:02:11.425
+I I was not even knowing that
+Obama was in the look.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/283-0
+00:02:14.335 --> 00:02:17.045
+Yeah, I don't know how. I'm. I'm
+very.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/302-0
+00:02:18.235 --> 00:02:21.350
+Embarrassed that I thought I.
+Yeah, I mentioned them in the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/302-1
+00:02:21.350 --> 00:02:23.685
+e-mail. All them, but I didn't
+include them.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/304-0
+00:02:25.005 --> 00:02:25.825
+Ouch.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/316-0
+00:02:27.485 --> 00:02:31.515
+Let me let me see. I see his
+greening online. Let me see if.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/339-0
+00:02:32.485 --> 00:02:36.571
+If he's available, I do not know
+how I did that cause Aubin is
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/339-1
+00:02:36.571 --> 00:02:40.462
+the one I've been working with
+over the past, maybe four or
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/339-2
+00:02:40.462 --> 00:02:41.175
+five weeks.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/340-0
+00:02:41.495 --> 00:02:41.875
+OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/345-0
+00:02:42.605 --> 00:02:44.635
+Suddenly I forgot about him.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/351-0
+00:02:54.375 --> 00:02:56.045
+So Alban does have.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/354-0
+00:02:56.815 --> 00:02:57.865
+A.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/358-0
+00:02:59.855 --> 00:03:00.765
+A draft.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/361-0
+00:03:01.435 --> 00:03:02.565
+Workflow.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/372-0
+00:03:03.965 --> 00:03:06.995
+I'm trying to get him included,
+see if I can pull them in.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/399-0
+00:03:10.395 --> 00:03:13.821
+Alright, let's see if he can
+join. So he does have a draft
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/399-1
+00:03:13.821 --> 00:03:17.596
+workflow that kind of shows high
+level of how this would go. Now
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/399-2
+00:03:17.596 --> 00:03:19.105
+I also do have a workflow.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/414-0
+00:03:20.645 --> 00:03:26.495
+That is intended to break off it
+will. It will spin off.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/418-0
+00:03:28.905 --> 00:03:29.495
+Yeah, like.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/422-0
+00:03:29.545 --> 00:03:30.375
+Module van.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/425-0
+00:03:31.275 --> 00:03:31.935
+Auburn.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/435-0
+00:03:33.545 --> 00:03:35.705
+Alternate do you have audio? Are
+you there?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/446-0
+00:03:38.605 --> 00:03:39.795
+We don't care who you are, you.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/443-0
+00:03:38.735 --> 00:03:39.305
+You.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/447-0
+00:03:39.095 --> 00:03:39.865
+I don't know. Meet.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/452-0
+00:03:40.935 --> 00:03:41.545
+Your mute.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/460-0
+00:03:44.835 --> 00:03:46.935
+Uh, Chris, microphone. You
+should have me now.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/463-0
+00:03:46.675 --> 00:03:47.195
+Yeah.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/467-0
+00:03:47.405 --> 00:03:47.895
+Yes.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-0
+00:03:47.645 --> 00:03:51.769
+It's open. I sincerely
+apologize. I was talking to the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-1
+00:03:51.769 --> 00:03:56.342
+guys I thought you were in the
+call. As I'm talking. Someone
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-2
+00:03:56.342 --> 00:04:00.390
+asked the question I was
+deferring to you, and that's
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-3
+00:04:00.390 --> 00:04:05.038
+crazy. And I said, Ohh God, I
+didn't not include Aubin in the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/497-0
+00:04:00.835 --> 00:04:01.305
+Anyways.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/507-0
+00:04:03.035 --> 00:04:03.845
+I OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-4
+00:04:05.038 --> 00:04:09.836
+call. And he's the one I've been
+working with for the past five
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/523-5
+00:04:09.836 --> 00:04:10.285
+weeks.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/532-0
+00:04:11.505 --> 00:04:12.795
+So that's.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/539-0
+00:04:11.565 --> 00:04:14.815
+No problem, that's fine. I I'm
+I'm available, so that's OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/552-0
+00:04:15.765 --> 00:04:18.295
+That was not intentional. I'm
+graduate.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/560-0
+00:04:16.235 --> 00:04:19.378
+We're just in the. Yes, it was
+in the teaching system, but no,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/560-1
+00:04:19.378 --> 00:04:20.525
+no problem, no problem.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/565-0
+00:04:21.355 --> 00:04:22.405
+OK, OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/564-0
+00:04:21.845 --> 00:04:22.235
+Fine.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/579-0
+00:04:23.315 --> 00:04:26.447
+And she won't. I I just
+forwarded you the e-mail that
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/569-0
+00:04:23.485 --> 00:04:23.885
+So.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/579-1
+00:04:26.447 --> 00:04:27.665
+was created by Obama.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/584-0
+00:04:28.655 --> 00:04:29.935
+Where we discussed the.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/620-0
+00:04:30.015 --> 00:04:33.512
+The the orphan servers and what
+we should do and what the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/620-1
+00:04:33.512 --> 00:04:36.948
+disconnection process would be
+and that was the starting
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/620-2
+00:04:36.948 --> 00:04:40.625
+process for what we have in this
+call issue is that correct?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/649-0
+00:04:42.445 --> 00:04:48.191
+Yes, I have to switch to the
+topic so that on the but that
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/629-0
+00:04:43.805 --> 00:04:44.145
+OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/669-0
+00:04:46.285 --> 00:04:49.735
+Yeah, I know. I'm the that.
+That's why I have forwarded the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/649-1
+00:04:48.191 --> 00:04:49.165
+yeah that.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/669-1
+00:04:49.735 --> 00:04:53.299
+e-mail to Benny so he can. He
+can see what was behind it and
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/669-2
+00:04:53.299 --> 00:04:56.346
+what was also in the
+presentation that you shared at
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/669-3
+00:04:56.346 --> 00:04:57.035
+that moment.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/672-0
+00:04:57.885 --> 00:04:58.235
+OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/677-0
+00:04:58.005 --> 00:04:59.715
+So going to.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/699-0
+00:04:59.155 --> 00:05:03.258
+It's from. It's from a year ago
+already, but it it shows a
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/687-0
+00:05:03.005 --> 00:05:03.245
+Hmm.
+
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/699-1
+00:05:03.258 --> 00:05:06.735
+little bit of the background
+information I think.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/706-0
+00:05:07.405 --> 00:05:08.385
+And and still.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/705-0
+00:05:07.515 --> 00:05:08.225
+So and.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/724-0
+00:05:10.255 --> 00:05:15.258
+I was also mentioning, uh, the
+flow chart that the high level
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/724-1
+00:05:15.258 --> 00:05:19.615
+flow chart, this may be it, let
+me see it is this it?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/769-0
+00:05:20.735 --> 00:05:25.356
+OK. No, I I have not seen this.
+Albin, do you think? Do you want
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/769-1
+00:05:25.356 --> 00:05:29.763
+me to share this? That field
+just sent from a year ago. Or do
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/769-2
+00:05:29.763 --> 00:05:34.454
+you think it's relevant to maybe
+look at that high level workflow
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/769-3
+00:05:34.454 --> 00:05:38.505
+that you created and we looked
+at a couple of weeks ago.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/817-0
+00:05:39.165 --> 00:05:44.096
+I think it it, yes it relevant
+to share it it it will need for
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/817-1
+00:05:44.096 --> 00:05:49.026
+sure it will need improvement on
+the discussion. Yeah, they're
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/817-2
+00:05:49.026 --> 00:05:53.957
+the home from for improvement
+for I think it just based on the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/817-3
+00:05:53.957 --> 00:05:58.339
+past experience on the yeah we
+may have to discuss this
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/817-4
+00:05:58.339 --> 00:05:58.965
+because.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/819-0
+00:05:59.725 --> 00:05:59.945
+Yeah.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-0
+00:06:01.295 --> 00:06:05.932
+So if if you were, if you think
+it's relevant, if you wouldn't
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-1
+00:06:05.932 --> 00:06:10.421
+mind sharing it and walking us
+through it, or it may even be
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-2
+00:06:10.421 --> 00:06:14.984
+meaningful if we just took a use
+case from fresh right and we
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-3
+00:06:14.984 --> 00:06:19.327
+actually walk through it and
+it's simplest form, I mean at
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-4
+00:06:19.327 --> 00:06:23.963
+the end of the day, you guys are
+getting these assets, you you
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-5
+00:06:23.963 --> 00:06:28.453
+get to a point where you hit a
+wall and no one knows who you
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-6
+00:06:28.453 --> 00:06:33.163
+who, who it belongs to. You've
+asked the IRT team, you've asked
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/904-7
+00:06:33.163 --> 00:06:33.825
+group IT.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-0
+00:06:33.905 --> 00:06:37.922
+You've asked ABCE FG every unit
+there is, and no one knows, and
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-1
+00:06:37.922 --> 00:06:41.751
+so now we're at a place where we
+say, OK, let's unplug it. I
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-2
+00:06:41.751 --> 00:06:45.329
+think the starting point is
+there, right when you start,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-3
+00:06:45.329 --> 00:06:49.220
+when you make a decision, when
+you say, will we say it fits a
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-4
+00:06:49.220 --> 00:06:53.174
+criteria to disconnect, how do
+we go about doing that, pulling
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-5
+00:06:53.174 --> 00:06:56.752
+it off of the network. And I
+think the starting point is
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-6
+00:06:56.752 --> 00:07:00.455
+there if we wanted to just drill
+in to it from there. This
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/989-7
+00:07:00.455 --> 00:07:04.095
+session is being recorded. We
+can then take our thoughts.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1005-0
+00:07:04.165 --> 00:07:09.279
+Offer this transfer, reported
+transcribe, and turn it into a a
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1005-1
+00:07:09.279 --> 00:07:11.065
+workflow of some sort.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1007-0
+00:07:13.035 --> 00:07:13.335
+OK.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1034-0
+00:07:15.705 --> 00:07:20.854
+So option A if you wanna pull up
+your draft or option B, we can
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1034-1
+00:07:20.854 --> 00:07:25.439
+do it here together, walk
+through scenario starting from
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1034-2
+00:07:25.439 --> 00:07:28.495
+the decision to disconnect and
+asset.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1044-0
+00:07:32.055 --> 00:07:35.461
+Maybe it would be good to
+understand exactly what do we
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1044-1
+00:07:35.461 --> 00:07:35.765
+need.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1062-0
+00:07:36.505 --> 00:07:40.408
+To because uh, at a point, we
+will need to understand the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1062-1
+00:07:40.408 --> 00:07:42.695
+feasibility of the
+disconnection.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1077-0
+00:07:44.105 --> 00:07:49.058
+On the we need to understand the
+requirement about should we who
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1077-1
+00:07:49.058 --> 00:07:51.115
+should we inform and so on.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1088-0
+00:07:53.485 --> 00:07:57.393
+That should be part of the
+process I think, and before I
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1088-1
+00:07:57.393 --> 00:07:57.735
+even.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1122-0
+00:07:57.825 --> 00:08:02.062
+And going start asking to by tea
+to disconnect on in in the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1122-1
+00:08:02.062 --> 00:08:06.581
+initial process there was a two
+movement to go by tea. It was I
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1122-2
+00:08:06.581 --> 00:08:10.676
+had to to change the process
+because initially it was not
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1122-3
+00:08:10.676 --> 00:08:11.805
+very that clear.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1143-0
+00:08:12.445 --> 00:08:16.183
+Yeah, because in fact we added
+to 1st ask group IT about the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1143-1
+00:08:16.183 --> 00:08:20.044
+feasibility of the disconnection
+and this was first to just to
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1143-2
+00:08:20.044 --> 00:08:20.595
+localize.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1170-0
+00:08:21.625 --> 00:08:28.188
+Localize the item to disconnect.
+I mean is is. Was it a part of
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1170-1
+00:08:28.188 --> 00:08:34.955
+group IT asset was group IT able
+to to act on the item and so on.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1172-0
+00:08:38.325 --> 00:08:38.495
+So.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1184-0
+00:08:38.345 --> 00:08:42.215
+Under. Yeah, even here we may
+have to select the.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1175-0
+00:08:38.575 --> 00:08:38.865
+Well.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1217-0
+00:08:43.185 --> 00:08:46.682
+An hour will competitive will be
+able to disconnect because it
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1217-1
+00:08:46.682 --> 00:08:49.957
+may have multiple choice and
+it's not clear at this point,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1217-2
+00:08:49.957 --> 00:08:53.065
+but this is something we will
+have to discuss probably.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-0
+00:08:53.655 --> 00:08:57.164
+I think we need to define a
+diagram of decision for this,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-1
+00:08:57.164 --> 00:09:01.096
+because today's what we need to
+define firstly the first point I
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1237-0
+00:08:57.335 --> 00:08:57.915
+Umm.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-2
+00:09:01.096 --> 00:09:04.726
+think we need to identify the
+item. Is it a physical logic?
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-3
+00:09:04.726 --> 00:09:07.992
+Virtuals. So the first
+orientation need to be what is
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-4
+00:09:07.992 --> 00:09:11.683
+the device, virtual or physical
+because it's a virtual. This
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-5
+00:09:11.683 --> 00:09:15.494
+means that we need to go to the
+different virtual environment.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-6
+00:09:15.494 --> 00:09:19.365
+It's really cold, it's more for
+network opportunity to block or
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1318-7
+00:09:19.365 --> 00:09:23.055
+to block the machine. So end
+point is what we want to block.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-0
+00:09:23.645 --> 00:09:27.995
+We want to use a system that we
+have. We can have some system
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-1
+00:09:27.995 --> 00:09:32.415
+like either, say Crowdstrike,
+that can block, put some policy,
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-2
+00:09:32.415 --> 00:09:36.765
+we can have some illumio tools
+for micro segmentation. We can
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-3
+00:09:36.765 --> 00:09:41.045
+have. So it depend what we want
+software looking or physical
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-4
+00:09:41.045 --> 00:09:45.184
+blocking to unplug the cable.
+Something like this top shut
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-5
+00:09:45.184 --> 00:09:49.464
+down of so that the port on the
+switch or on cable something
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-6
+00:09:49.464 --> 00:09:53.533
+like this. So it's some decision
+that you need to take in
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1387-7
+00:09:53.533 --> 00:09:54.375
+function of.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1392-0
+00:09:54.465 --> 00:09:55.865
+You're 12 physical machine.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1395-0
+00:09:56.695 --> 00:09:57.105
+I think.
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1432-0
+00:09:58.375 --> 00:10:03.492
+And I appreciate that, Lauren,
+if I can also comment on the the
+ 
+bc4dbded-2791-4b5d-b5d2-8a4d353d78da/1432-1
+00:10:03.492 --> 00:10:08.450
+communication piece, I think for
+simplicity the communication
